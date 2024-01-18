@@ -1,7 +1,5 @@
 # Netflix-Clone-Webpage
 
-# Netflix-Style Webpage
-
 This project is a simple HTML, CSS, and JavaScript template for a Netflix-themed webpage. It provides a basic structure for showcasing content, including a navigation bar, information sections, and a Frequently Asked Questions (FAQ) section.
 
 ## Table of Contents
